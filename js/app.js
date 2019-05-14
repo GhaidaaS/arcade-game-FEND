@@ -98,6 +98,7 @@ Player.prototype.handleInput = function(key){
         if (!(newPos < 10)) 
             y=newPos;
         else {
+            swal("YOU WON!!!!!", "success");
             x=200;
             y=430;
         }
