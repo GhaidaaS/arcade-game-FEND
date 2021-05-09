@@ -1,6 +1,6 @@
 # Classic Arcade Game Clone Project
 
-Arcade Game is An interactive 2D game in the browser which the player has to reach the water without touch the bugs.
+Arcade Game is An interactive 2D game in the browser in which the player has to reach the water without touch the bugs.
 
 
 ## How to play
