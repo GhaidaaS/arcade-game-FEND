@@ -1,6 +1,6 @@
 # Classic Arcade Game Clone Project
 
-This game is a project from the Front End Web Developer nanodegree by Udacity.
+Arcade Game is An interactive 2D game in the browser which the player has to reach the water without touch the bugs.
 
 
 ## How to play
